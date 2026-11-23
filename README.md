@@ -5,6 +5,9 @@ Gruppeprosjekt i **IBE160 Programmering med KI** ved Høgskolen i Molde, høsten
 Project can be found in
 G21-nessa-private
 
+Deployed-on 
+https://livelingo-n5i7.onrender.com/
+
 ## Medlemmer
 
 - Olaug Nessa
